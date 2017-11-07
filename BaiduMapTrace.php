@@ -117,9 +117,3 @@ class BaiduMapTrace {
     }
    
 }
-
-####简单使用案例
-$result = BaiduMapTrace::getInstance()->post('entity/add',[
-    'entity_name' => 'test0001'
-]);
-var_dump($result);
