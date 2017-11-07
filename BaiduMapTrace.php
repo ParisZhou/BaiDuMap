@@ -8,9 +8,9 @@
  */
 class BaiduMapTrace {
 
-    private $api_key = 'Lf5ETX1BD3GYTByUavNb9eUyP2aNA717';
+    private $api_key = 'your ak';
     private $api_endpoint = 'http://yingyan.baidu.com/api/v3';
-    private $service_id = 153504;
+    private $service_id = 11111; //your service id
 
     const TIMEOUT = 10;
 
